@@ -3,7 +3,7 @@
 |[Blogeintrag-16.01.23](#blogeintrag-16012023)||[Blogeintrag-14.02.23](#blogeintrag-14022023)|
 :-------------------:|
 
-## Blogeinträge-16.01.2023
+## Blogeintrag-16.01.2023
 
 Am heutigen Tag gab es Unschlüssigkeiten bzgl. des Stundenplans, weshalb nur die Hälfte der Klasse anwesend war. Da es sich nicht lohnte, die Projekte vorzustellen, fingen wir an, uns neue Projekte zu überlegen.
 
