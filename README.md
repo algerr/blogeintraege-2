@@ -1,7 +1,7 @@
 # Blogeinträge des zweiten Informatikprojekts
 
 |[Blogeintrag-16.01.23](#blogeintrag-16012023)||[Blogeintrag-14.02.23](#blogeintrag-14022023)|
-:-------------------:|:-------------------:|
+:-------------------:|
 
 ## Blogeinträge-16.01.2023
 
