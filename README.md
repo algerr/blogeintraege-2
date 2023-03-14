@@ -22,7 +22,7 @@ die uns zur Verfügung gestellt wurden. Die Herausforderung bei der Herrstellung
 ersten Spule, bestand nun darin das Kupferdraht um den
 Eisenkern, ohne eine Drehbank zu wickeln.
 
-## Blogeintrag- 14.03.23
+## Blogeintrag- 14.03.2023
 
 Nachdem wir uns eine ausgeliehene Teslaspule angeschaut hatten, sind wir nach einigen Überlegungen zum Entschluss gekommen, dass die Teslaspule insofern keinen Mehrwert hätte, als das dieses Projekt nur etwas zum Betrachten wäre und keine richtige Funktion aufweisen würde. 
 Deshalb wollten wir uns wieder nicht weiter dem Physical Computing widmen, sondern diesmal eine Software programmieren, welche Passwörter besser schützen kann und automatisch sichere Passwörter erstellen kann. Die Menschen im 21. Jahrhundert sind im Internet schnell auf das Problem gestoßen, dass man sich häufig auf Websiten oder Plattformen registrieren muss, wobei diese wichtige Daten über einen beeinihalten, die gleichzeigig einen für z.B. Hacker oder Betrüger verletzlich machen.
