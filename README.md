@@ -12,12 +12,16 @@ Nachdem wir uns letztes Mal mit der Softwareentwicklung auseinandergesetzt hatte
 
 ## Blogeintrag- 28.02.2023
 
-Seit der letzten Stunde hatten ich und Laurenz bereits versucht im Baumarkt alle nõtigen Bauteile zu beschaffen, die wir benõtigten, um mit
-dem Bau der Teslaspule zu beginnen. Unteranderem benötigten wir kupferdraht, einen Eisenkem, einen Tranformator und weitere Bauteile
-Leider fanden wir vergebens etwas, was wir benõtigen würden. Aufgrund des Tatbestand s widmeten wir uns dem Versuch ersteinmal
-abzuwarten, um die nõtigen Bauteile aus der Physikräumen in unserer Schule zu holen. In diesen beiden Doppelstunden war Laurenz leider
+Seit der letzten Stunde hatten ich und Laurenz bereits versucht im Baumarkt alle nõtigen Bauteile zu beschaffen, die wir benötigten, um mit
+dem Bau der Teslaspule zu beginnen. Unter anderem benötigten wir Kupferdraht, einen Eisenkern, einen Tranformator und weitere Bauteile.
+Leider fanden wir vergebens etwas, was wir benötigen würden. Aufgrund des Tatbestands widmeten wir uns dem Versuch ersteinmal
+abzuwarten, um die nötigen Bauteile aus der Physikräumen in unserer Schule zu holen. In diesen beiden Doppelstunden war Laurenz leider
 abwesend, weshalb ich selbst die Aufgabe der Bauteilenanschafung in die Hand nahm. Zuerst einmal began ich mit dem Umwickeln des
-Kupferdrahts um den Eisernkern herum, um die Primärspule zu konstruiren. Glücklicherweise verfügte unsere Schule überl Kupferdrahtvorjte
-die uns: zur Verfügung gestellt wurden. Die Herausforderung bei der Herrstellung der
+Kupferdrahts um den Eisernkern herum, um die Primärspule zu konstruiren. Glücklicherweise verfügte unsere Schule über Kupferdrahtvorräte
+die uns zur Verfügung gestellt wurden. Die Herausforderung bei der Herrstellung der
 ersten Spule, bestand nun darin das Kupferdraht um den
-Eisenkemn, ohne eine Drehbank zu wickeln.
+Eisenkern, ohne eine Drehbank zu wickeln.
+
+## Blogeintrag- 14.03.23
+
+Nachdem wir uns eine ausgeliehene Teslaspule angeschaut hatten, sind wir nach einigen Überlegungen zum Entschluss gekommen, dass die Teslaspule insofern keinen Mehrwert hätte, als das dieses Projekt nur etwas zum Betrachten wäre und keine richtige Funktion aufweisen würde. Deshalb wollten wir uns wieder nicht weiter dem Physical Computing widmen, sondern diesmal eine Software programmieren, welche Passwörter besser schützen kann und automatisch sichere Passwörter erstellen kann. 
