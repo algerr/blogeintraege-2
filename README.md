@@ -36,3 +36,7 @@ Nachdem wir die Grafiken erstellt hatten und diese zur Orientierung für unser P
 ## Blogeintrag- 4.04-2023
 
 Da Laurenz aufgrund einer Beurlaubung nicht in der Schule anwesend sein konnte, sah ich keinen richtigen Mehrwert darin zur heutigen Informatik Doppelstunde zu erscheinen, sondern von zu Hause aus einerseits selbst und andererseits durch einen Anruf mit Laurenz weiter an unserem Projekt zu arbeiten.
+
+## Blogeintrag- 7.04.2023
+
+Mittlerweile waren wir mit der Programmierung unseres Projektes "ergissMeinNicht" ertig geworden ns bereits parallel dem Ziel unsere Projektseite zu verschönern, sie es wie z.B. letztes Mal durch eine Logo-Animation und ein funktionierendes Inhaltsverzeichnis. Auch war es uns natürlich wichtig, dass was wir programmiert hatten strukturiert zu erklären, weshalb wir wieder "Carbon" nutzten, um unsere Code-Abschnitte als Fotographie in die Projektseite einzufügen und einen dazu passenden Erklärtext zu jedem Abschnitt einzufügen. 
