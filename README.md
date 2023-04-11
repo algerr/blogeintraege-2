@@ -8,7 +8,9 @@
 Am heutigen Tag gab es Unschlüssigkeiten bzgl. des Stundenplans, weshalb nur die Hälfte der Klasse anwesend war. Da es sich nicht lohnte, die Projekte vorzustellen, fingen wir an, uns neue Projekte zu überlegen.
 
 ## Blogeintrag-14.02.2023
-Nachdem wir uns letztes Mal mit der Softwareentwicklung auseinandergesetzt hatten, und eine Simulation programmierten, welche die Evolutionstheorie von Charles Darwin repräsentierte, entschieden wir uns nun dazu dieses Halbjahr in das "Physicalcomputing" einzusteigen. Zufälligerweise entdeckten wir auf Social Media Teslaspulen, welche mithilfe einer Spannung Töne erzeugen konnten, wobei noch zusätzlich faszinierende Blitze entstanden. Dieses Konzept wollten wir unbedingt als Vorbild für unser Projekt nutzen, und ebenfalls eine Teslaspule zu entwickeln, welche gleichzeitig Blitze entstehen lässt und Töne erzeugt. Der Unterschied bei unserem Projekt sollte nun die Weiterentwicklung des Konzepts sein. Getauft haben wir unser Projekt mit dem Titel "Tesla Beats". Mithilfe eines programmierten Arduinos sollte nun die Spannung der Teslaspule gesteurt werde, um z.B. die Musik, welche die Teslaspule erzeugt, auszuschalten oder die Lautstärke zu minimieren. Falls diese Aspekte erfüllt sein sollten, wollten wir noch zusätzlich mithilfe einer Kamera Bewegungen erfassen können, um Mithilfe von festgelegten Bewegungen die letztendliche Spannung zu steuern.
+Nachdem wir uns letztes Mal mit der Softwareentwicklung auseinandergesetzt hatten, und eine Simulation programmierten, welche die Evolutionstheorie von Charles Darwin repräsentierte, entschieden wir uns nun dazu dieses Halbjahr in das "Physicalcomputing" einzusteigen. Zufälligerweise entdeckten wir auf Social Media Teslaspulen, welche mithilfe einer Spannung Töne erzeugen konnten, wobei noch zusätzlich faszinierende Blitze entstanden. Dieses Konzept wollten wir unbedingt als Vorbild für unser Projekt nutzen, und ebenfalls eine Teslaspule zu entwickeln, welche gleichzeitig Blitze entstehen lässt und Töne erzeugt. Der Unterschied bei unserem Projekt sollte nun die Weiterentwicklung des Konzepts sein. Getauft haben wir unser Projekt mit dem Titel "Tesla Beats". Mithilfe eines programmierten Arduinos sollte nun die Spannung der Teslaspule gesteurt werde, um z.B. die Musik, welche die Teslaspule erzeugt, auszuschalten oder die Lautstärke zu minimieren. Falls diese Aspekte erfüllt sein sollten, wollten wir noch zusätzlich mithilfe einer Kamera Bewegungen erfassen können, um Mithilfe von festgelegten Bewegungen die letztendliche Spannung zu steuern. Da es bereits Teslaspulen gab, welche Töne erzeugen konnten, orientierten wir uns zunächst an Spulen folgender Art:
+
+![Bild Blogeintrag 3](https://user-images.githubusercontent.com/111282979/231255089-69d87b62-192d-4e51-8976-5acf3c963be5.jpg)
 
 ## Blogeintrag- 28.02.2023
 
@@ -18,9 +20,11 @@ Leider fanden wir vergebens etwas, was wir benötigen würden. Aufgrund des Tatb
 abzuwarten, um die nötigen Bauteile aus der Physikräumen in unserer Schule zu holen. In diesen beiden Doppelstunden war Laurenz leider
 abwesend, weshalb ich selbst die Aufgabe der Bauteilenanschafung in die Hand nahm. Zuerst einmal began ich mit dem Umwickeln des
 Kupferdrahts um den Eisernkern herum, um die Primärspule zu konstruiren. Glücklicherweise verfügte unsere Schule über Kupferdrahtvorräte
-die uns zur Verfügung gestellt wurden. Die Herausforderung bei der Herrstellung der
-ersten Spule, bestand nun darin das Kupferdraht um den
-Eisenkern, ohne eine Drehbank zu wickeln.
+die uns zur Verfügung gestellt wurden. Die Herausforderung bei der Herrstellung der ersten Spule, bestand nun darin das Kupferdraht um den Eisenkern, ohne eine Drehbank zu wickeln. Abgesehen davon hatte unsere Schule selbst eine ausgeliehene Teslaspule, welche wir unbedingt in Aktion sehen wollten, um einerseits den Aufbau dieser näher kennenzulernen und andererseits dessen Funktionen.
+
+![Bild Blogeintrag 2](https://user-images.githubusercontent.com/111282979/231255524-049d1a20-d767-4e27-bc09-1def42fc7f3a.jpg)
+
+
 
 ## Blogeintrag- 14.03.2023
 
@@ -28,6 +32,9 @@ Nachdem wir uns eine ausgeliehene Teslaspule angeschaut hatten, sind wir nach ei
 Deshalb wollten wir uns wieder nicht weiter dem Physical Computing widmen, sondern diesmal eine Software programmieren, welche Passwörter besser schützen kann und automatisch sichere Passwörter erstellt. Die Menschen im 21. Jahrhundert sind im Internet schnell auf das Problem gestoßen, dass man sich häufig auf Websiten oder Plattformen registrieren muss, wobei diese wichtige Daten über einen beeinihalten, die gleichzeigig einen für z.B. Hacker oder Betrüger verletzlich machen.
 Wir wollen den Nutzern im Internet nun das Leben erleichtern und sie vor den Gefahren im Internet mit unserem Projekt schützen. Wir wollen also ähnlich wie bei einer 2FA Authentifizierung Passwörter mit wiederum anderen Passwörtern schützen. Dazu wollen wir es den Nutzern einfacher machen sich sichere Passwörter in Sekunden zu erstellen, die man nie wieder vergessen würde. Wir kennen es doch alle, dass wir häufig unsere Zeit sinnlos verschwenden, um ein sicheres Passwort zu erstellen, was wir im Nachhinein oft wieder vergessen.
 Wir wollen der Frust, die sich daraus ergibt, ein Ende bereiten. Die Menschen im Internet sollen nun in Sicherheit leben können. Bevor wir allerdings unsere Idee in die Praxis umsetzen sollten, erforderte es einige Schritt, die erfüllt werden mussten, um sicher mit der Umsetzung des Projekts loslegen zu können. Wir ertstellten über ein kostenloses Designerprogram mit dem Namen Figma Grafiken, um unser Vorhaben und die Ideen, die hinter unserem Projekt stecken sollten, zu visualisieren. Da unser Prinzip nicht besonders komplex war, fiel es uns dementsprechend einfach die verschiedenen Zeichnungen anzufertigen. Damit ebenfalls der interessierte Leser das Gesamtkonzept besser verstehen würde, schrieben wir jeweils zu jeder Grafik einen möglichst verständlichen Text zur Erklärung der jeweiligen Ideen. Nachdem wir fertig waren beganen wir mit dem eigentlichen Programmieren. 
+
+![Bild Blogeintrag 1](https://user-images.githubusercontent.com/111282979/231255651-992358e6-2d29-4e10-a0fa-18cfabd53903.jpg)
+
 
 ## Blogeintrag- 21.03.2023
 
@@ -41,7 +48,13 @@ Da Laurenz aufgrund einer Beurlaubung nicht in der Schule anwesend sein konnte, 
 
 Mittlerweile waren wir mit der Programmierung unseres Projektes "ergissMeinNicht" fertig geworden, sodass wir uns bereits parallel dem Ziel unsere Projektseite zu verschönern widmeten, um sei es wie z.B. letztes Mal durch eine Logo-Animation und ein funktionierendes Inhaltsverzeichnis, anzufertigen. Außerdem sind wir die einzelnen Abschnitte des Codes durchgegangen und haben diese kommentiert, um für unsere Interessenten alles möglichst nachvollziehbar zu gestallten. Auch war es uns natürlich wichtig, dass was wir programmiert hatten, strukturiert zu erklären, weshalb wir wieder "Carbon" nutzten, um unsere Code-Abschnitte als Fotographie in die Projektseite einzufügen und einen dazu passenden Erklärtext zu jedem Abschnitt zu erstellen. Für die Erstellung des Logos nutzten wir Figma und anschließend für das Erstellen der Animation das Programm "Adobe After Effect". 
 
+![Bild Blogeintrag 4](https://user-images.githubusercontent.com/111282979/231255825-5ecd0cb1-b44e-4bc1-b583-2aa800c034a8.jpg)
+
+
+
 
 ## Blogeintrag- 11.04.2023
 
 Nach sehr vielen verfassten Texten zu den einzelnen Bereichen des Projekts, haben wir es uns zum nächsten Schritt gemacht unsere Texte auf Interpunktion und Ausdruck zu untersuchen, um dadurch einzelne Dinge auszubessern. Obendrein wollten wir noch vor der Abgabe unbedingt zusätzliche Grafiken zu unserer Projektseite erstellen, damit die Erklärung so gut werden würde, dass nicht große Fragen offen blieben, weil dies für uns ein unbefriedigendes Ergebnis gewesen wäre. Des Weiteren haben wir auch wie schon bei unserem letzten Projekt "Survival of the fittest" wieder eine schöne Animation für unsere Projektseite angefertigt, um ein wenig der Langeweile, die durch das Lesen der langen Texte zukommen würde, entgegenzuwirken. Auch haben wir natürlich unser gesammtes Werk patentiert, damit andere es nicht klauen würden und unsere harte Arbeit zunichtemachen würden. Zum Schluss haben wir die Überschriften zu den einzelnen Themen unseres Projekts aufklappbar gemacht, damit die Nutzer selbst entscheiden können was sie sich davon gerade durchlesen möchten und nicht Alles bereits zu Beginn beim Öffnen der Seite aufgeklappt ist. 
+
+
