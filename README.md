@@ -1,7 +1,7 @@
 # Blogeinträge des zweiten Informatikprojekts
 
-|[Blogeintrag-16.01.23](#blogeintrag-16012023)|[Blogeintrag-14.02.23](#blogeintrag-14022023)|[Blogeintrag-28.02.23](#blogeintrag-28022023)|[Blogeintrag-14.03.23](#blogeintrag-14032023)|[Blogeintrag-21.03.23](#blogeintrag-21032023)|[Blogeintrag-04.04.23](#blogeintrag-04042023)|
-:-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
+|[Blogeintrag-16.01.23](#blogeintrag-16012023)|[Blogeintrag-14.02.23](#blogeintrag-14022023)|[Blogeintrag-28.02.23](#blogeintrag-28022023)|[Blogeintrag-14.03.23](#blogeintrag-14032023)|[Blogeintrag-21.03.23](#blogeintrag-21032023)|[Blogeintrag-04.04.23](#blogeintrag-04042023)||[Blogeintrag-11.04.23](#blogeintrag-11042023)|
+:-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
 
 ## Blogeintrag-16.01.2023
 
@@ -39,4 +39,9 @@ Da Laurenz aufgrund einer Beurlaubung nicht in der Schule anwesend sein konnte, 
 
 ## Blogeintrag- 7.04.2023
 
-Mittlerweile waren wir mit der Programmierung unseres Projektes "ergissMeinNicht" fertig geworden, sodass wir uns bereits parallel dem Ziel unsere Projektseite zu verschönern widmeten, um sei es wie z.B. letztes Mal durch eine Logo-Animation und ein funktionierendes Inhaltsverzeichnis, anzufertigen. Auch war es uns natürlich wichtig, dass was wir programmiert hatten, strukturiert zu erklären, weshalb wir wieder "Carbon" nutzten, um unsere Code-Abschnitte als Fotographie in die Projektseite einzufügen und einen dazu passenden Erklärtext zu jedem Abschnitt zu erstellen. Für die Erstellung des Logos nutzten wir Figma und anschließend für das Erstellen der Animation das Programm "Adobe After Effect". 
+Mittlerweile waren wir mit der Programmierung unseres Projektes "ergissMeinNicht" fertig geworden, sodass wir uns bereits parallel dem Ziel unsere Projektseite zu verschönern widmeten, um sei es wie z.B. letztes Mal durch eine Logo-Animation und ein funktionierendes Inhaltsverzeichnis, anzufertigen. Außerdem sind wir die einzelnen Abschnitte des Codes durchgegangen und haben diese kommentiert, um für unsere Interessenten alles möglichst nachvollziehbar zu gestallten. Auch war es uns natürlich wichtig, dass was wir programmiert hatten, strukturiert zu erklären, weshalb wir wieder "Carbon" nutzten, um unsere Code-Abschnitte als Fotographie in die Projektseite einzufügen und einen dazu passenden Erklärtext zu jedem Abschnitt zu erstellen. Für die Erstellung des Logos nutzten wir Figma und anschließend für das Erstellen der Animation das Programm "Adobe After Effect". 
+
+
+## Blogeintrag- 11.04.2023
+
+Nach sehr vielen verfassten Texten zu den einzelnen Bereichen des Projekts, haben wir es uns zum nächsten Schritt gemacht unsere Texte auf Interpunktion und Ausdruck zu untersuchen, um dadurch einzelne Dinge auszubessern. Obendrein wollten wir noch vor der Abgabe unbedingt zusätzliche Grafiken zu unserer Projektseite erstellen, damit die Erklärung so gut werden würde, dass nicht große Fragen offen blieben, weil dies für uns ein unbefriedigendes Ergebnis gewesen wäre. Des Weiteren haben wir auch wie schon bei unserem letzten Projekt "Survival of the fittest" wieder eine schöne Animation für unsere Projektseite angefertigt, um ein wenig der Langeweile, die durch das Lesen der langen Texte zukommen würde, entgegenzuwirken. Auch haben wir natürlich unser gesammtes Werk patentiert, damit andere es nicht klauen würden und unsere harte Arbeit zunichtemachen würden. Zum Schluss haben wir die Überschriften zu den einzelnen Themen unseres Projekts aufklappbar gemacht, damit die Nutzer selbst entscheiden können was sie sich davon gerade durchlesen möchten und nicht Alles bereits zu Beginn beim Öffnen der Seite aufgeklappt ist. 
