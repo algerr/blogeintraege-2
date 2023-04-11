@@ -39,7 +39,12 @@ Wir wollen der Frust, die sich daraus ergibt, ein Ende bereiten. Die Menschen im
 
 ## Blogeintrag- 21.03.2023
 
-Nachdem wir die Grafiken erstellt hatten und diese zur Orientierung für unser Projekt nutzten, arbeiteten wir wie gewohnt an unserem Projekt hauptsächlich von zu Hause aus weiter. Für das Programmieren nutzten wir zunächst einmal node js, welches uns keine andere Möglichkeit bietet als JavaScript außerhalb des Webbrowsers zu nutzen. Darüber hinaus würden wir durch node js den Vorteil haben, dass unsere Nutzer zukünftlich unser fertiges Programm auf Betriebssystem wie MacOS und Linux öffnen könnten und nicht zwingend Windows zur Ausführung unseres Projekts bräuchten. Um unser framework für das frontend zu erstellen, welches ein wichtiger Bestandteil unseres Projekts war, nutzten wir react js, weil dieses sich besonders gut für die Erstellung von Benutzeroberflächen eignet. Eine ausführlichere Erklärung, warum gerade diese beiden JavaScript Bibliotheken uns überzeugt haben, folgt auf der Projektseite.    
+Nachdem wir die Grafiken erstellt hatten und diese zur Orientierung für unser Projekt nutzten, arbeiteten wir wie gewohnt an unserem Projekt hauptsächlich von zu Hause aus weiter. Für das Programmieren nutzten wir zunächst einmal node js, welches uns keine andere Möglichkeit bietet als JavaScript außerhalb des Webbrowsers zu nutzen. Darüber hinaus würden wir durch node js den Vorteil haben, dass unsere Nutzer zukünftlich unser fertiges Programm auf Betriebssystem wie MacOS und Linux öffnen könnten und nicht zwingend Windows zur Ausführung unseres Projekts bräuchten. Um unser framework für das frontend zu erstellen, welches ein wichtiger Bestandteil unseres Projekts war, nutzten wir react js, weil dieses sich besonders gut für die Erstellung von Benutzeroberflächen eignet. Eine ausführlichere Erklärung, warum gerade diese beiden JavaScript Bibliotheken uns überzeugt haben, folgt auf der Projektseite.   
+
+![Node JS-pic-12](https://user-images.githubusercontent.com/111282979/231259269-c62c838c-c022-4310-b007-b0a92fe424ca.png)
+
+
+
 
 ## Blogeintrag- 4.04-2023
 
