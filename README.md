@@ -10,7 +10,10 @@ Am heutigen Tag gab es Unschlüssigkeiten bzgl. des Stundenplans, weshalb nur di
 ## Blogeintrag-14.02.2023
 Nachdem wir uns letztes Mal mit der Softwareentwicklung auseinandergesetzt hatten, und eine Simulation programmierten, welche die Evolutionstheorie von Charles Darwin repräsentierte, entschieden wir uns nun dazu dieses Halbjahr in das "Physicalcomputing" einzusteigen. Zufälligerweise entdeckten wir auf Social Media Teslaspulen, welche mithilfe einer Spannung Töne erzeugen konnten, wobei noch zusätzlich faszinierende Blitze entstanden. Dieses Konzept wollten wir unbedingt als Vorbild für unser Projekt nutzen, und ebenfalls eine Teslaspule zu entwickeln, welche gleichzeitig Blitze entstehen lässt und Töne erzeugt. Der Unterschied bei unserem Projekt sollte nun die Weiterentwicklung des Konzepts sein. Getauft haben wir unser Projekt mit dem Titel "Tesla Beats". Mithilfe eines programmierten Arduinos sollte nun die Spannung der Teslaspule gesteurt werde, um z.B. die Musik, welche die Teslaspule erzeugt, auszuschalten oder die Lautstärke zu minimieren. Falls diese Aspekte erfüllt sein sollten, wollten wir noch zusätzlich mithilfe einer Kamera Bewegungen erfassen können, um Mithilfe von festgelegten Bewegungen die letztendliche Spannung zu steuern. Da es bereits Teslaspulen gab, welche Töne erzeugen konnten, orientierten wir uns zunächst an Spulen folgender Art:
 
-![B![Bild Blogeintrag 5](https://user-images.githubusercontent.com/111282979/231256705-e7faac0c-af1d-46d5-8e79-42008b0d1810.jpg)
+!![Bild Blogeintrag 5](https://user-images.githubusercontent.com/111282979/231256910-d77c836d-5d76-428b-a0e6-5e5ed254004d.jpg)
+[Bild Blogeintrag 3](https://user-images.githubusercontent.com/111282979/231256885-bde8a88e-7e55-4a5f-8435-3c7d975dbb1d.jpg)
+
+
 
 
 
