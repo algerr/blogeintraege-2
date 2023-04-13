@@ -64,6 +64,7 @@ Nach sehr vielen verfassten Texten zu den einzelnen Bereichen des Projekts, habe
 [![image](https://user-images.githubusercontent.com/111282979/231796884-702c6e9b-6b5a-4143-aaf4-569075982b4b.png)]
 (https://www.youtube.com/shorts/9_NoVwdvP4I)
 
+[![image](https://user-images.githubusercontent.com/111282979/231797111-cc8734c2-6cbf-41d5-97e5-f7874172f90e.png)]
 (https://user-images.githubusercontent.com/111282979/231259269-c62c838c-c022-4310-b007-b0a92fe424ca.png))
 
 
