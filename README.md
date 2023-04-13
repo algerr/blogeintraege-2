@@ -60,4 +60,11 @@ Mittlerweile waren wir mit der Programmierung unseres Projektes "VergissMeinNich
 
 Nach sehr vielen verfassten Texten zu den einzelnen Bereichen des Projekts, haben wir es uns zum nächsten Schritt gemacht unsere Texte auf Interpunktion und Ausdruck zu untersuchen, um dadurch einzelne Dinge auszubessern. Obendrein wollten wir noch vor der Abgabe unbedingt zusätzliche Grafiken zu unserer Projektseite erstellen, damit die Erklärung so gut werden würde, dass nicht große Fragen offen blieben, weil dies für uns ein unbefriedigendes Ergebnis gewesen wäre. Des Weiteren haben wir auch wie schon bei unserem letzten Projekt "Survival of the fittest" wieder eine schöne Animation für unsere Projektseite angefertigt, um ein wenig der Langeweile, die durch das Lesen der langen Texte zukommen würde, entgegenzuwirken. Auch haben wir natürlich unser gesammtes Werk patentiert, damit andere es nicht klauen würden und unsere harte Arbeit zunichtemachen würden. Zum Schluss haben wir die Überschriften zu den einzelnen Themen unseres Projekts aufklappbar gemacht, damit die Nutzer selbst entscheiden können was sie sich davon gerade durchlesen möchten und nicht Alles bereits zu Beginn beim Öffnen der Seite aufgeklappt ist. 
 
+## Quellenverzeichnis
+
+[![20230411_203427](https://user-images.githubusercontent.com/111282979/231257475-f5c9ac69-5901-435d-827c-68555571c453.jpg)](https://www.youtube.com/shorts/9_NoVwdvP4I)
+
+[![Node JS-pic-12](https://user-images.githubusercontent.com/111282979/231259269-c62c838c-c022-4310-b007-b0a92fe424ca.png)](![Node JS-pic-12](https://user-images.githubusercontent.com/111282979/231259269-c62c838c-c022-4310-b007-b0a92fe424ca.png))
+
+
 
