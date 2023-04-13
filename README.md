@@ -1,6 +1,6 @@
 # Blogeinträge des zweiten Informatikprojekts
 
-|[Blogeintrag-16.01.23](#blogeintrag-16012023)|[Blogeintrag-14.02.23](#blogeintrag-14022023)|[Blogeintrag-28.02.23](#blogeintrag-28022023)|[Blogeintrag-14.03.23](#blogeintrag-14032023)|[Blogeintrag-21.03.23](#blogeintrag-21032023)|[Blogeintrag-04.04.23](#blogeintrag-04042023)||[Blogeintrag-11.04.23](#blogeintrag-11042023)|
+|[Blogeintrag-16.01.23](#blogeintrag-16012023)|[Blogeintrag-14.02.23](#blogeintrag-14022023)|[Blogeintrag-28.02.23](#blogeintrag-28022023)|[Blogeintrag-14.03.23](#blogeintrag-14032023)|[Blogeintrag-21.03.23](#blogeintrag-21032023)|[Blogeintrag-11.04.23](#blogeintrag-11042023)|
 :-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
 
 ## Blogeintrag-16.01.2023
@@ -46,13 +46,9 @@ Nachdem wir die Grafiken erstellt hatten und diese zur Orientierung für unser P
 
 
 
-## Blogeintrag- 4.04-2023
-
-Da Laurenz aufgrund einer Beurlaubung nicht in der Schule anwesend sein konnte, sah ich keinen richtigen Mehrwert darin zur heutigen Informatik Doppelstunde zu erscheinen, sondern von zu Hause aus einerseits selbst und andererseits durch einen Anruf mit Laurenz weiter an unserem Projekt zu arbeiten.
-
 ## Blogeintrag- 7.04.2023
 
-Mittlerweile waren wir mit der Programmierung unseres Projektes "ergissMeinNicht" fertig geworden, sodass wir uns bereits parallel dem Ziel unsere Projektseite zu verschönern widmeten, um sei es wie z.B. letztes Mal durch eine Logo-Animation und ein funktionierendes Inhaltsverzeichnis, anzufertigen. Außerdem sind wir die einzelnen Abschnitte des Codes durchgegangen und haben diese kommentiert, um für unsere Interessenten alles möglichst nachvollziehbar zu gestallten. Auch war es uns natürlich wichtig, dass was wir programmiert hatten, strukturiert zu erklären, weshalb wir wieder "Carbon" nutzten, um unsere Code-Abschnitte als Fotographie in die Projektseite einzufügen und einen dazu passenden Erklärtext zu jedem Abschnitt zu erstellen. Für die Erstellung des Logos nutzten wir Figma und anschließend für das Erstellen der Animation das Programm "Adobe After Effect". 
+Mittlerweile waren wir mit der Programmierung unseres Projektes "VergissMeinNicht" fertig geworden, sodass wir uns bereits parallel dem Ziel unsere Projektseite zu verschönern widmeten, um sei es wie z.B. letztes Mal durch eine Logo-Animation und ein funktionierendes Inhaltsverzeichnis, anzufertigen. Außerdem sind wir die einzelnen Abschnitte des Codes durchgegangen und haben diese kommentiert, um für unsere Interessenten alles möglichst nachvollziehbar zu gestallten. Auch war es uns natürlich wichtig, dass was wir programmiert hatten, strukturiert zu erklären, weshalb wir wieder "Carbon" nutzten, um unsere Code-Abschnitte als Fotographie in die Projektseite einzufügen und einen dazu passenden Erklärtext zu jedem Abschnitt zu erstellen. Für die Erstellung des Logos nutzten wir Figma und anschließend für das Erstellen der Animation das Programm "Adobe After Effect". 
 
 ![Bild Blogeintrag 4](https://user-images.githubusercontent.com/111282979/231255825-5ecd0cb1-b44e-4bc1-b583-2aa800c034a8.jpg)
 
