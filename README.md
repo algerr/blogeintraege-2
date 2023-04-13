@@ -63,7 +63,7 @@ Nach sehr vielen verfassten Texten zu den einzelnen Bereichen des Projekts, habe
 ## Quellenverzeichnis
 - [Zu dem ersten Bild](https://www.youtube.com/shorts/9_NoVwdvP4I)
 
-- [Zu dem vierten Bild](https://user-images.githubusercontent.com/111282979/231259269-c62c838c-c022-4310-b007-b0a92fe424ca.png))
+- [Zu dem vierten Bild](https://user-images.githubusercontent.com/111282979/231259269-c62c838c-c022-4310-b007-b0a92fe424ca.png)
 
 
 
