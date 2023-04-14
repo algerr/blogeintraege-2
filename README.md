@@ -7,17 +7,18 @@
 
 ## Blogeintrag-16.01.2023
 
-Am heutigen Tag gab es Unschlüssigkeiten bzgl. des Stundenplans, weshalb nur die Hälfte der Klasse anwesend war. Da es sich nicht lohnte, die Projekte vorzustellen, fingen wir an, uns neue Projekte zu überlegen.
+Am heutigen Tag gab es Unschlüssigkeiten bzgl. des Stundenplans, weshalb nur die Hälfte der Klasse anwesend war. Da es sich nicht lohnte, die Projekte vorzustellen, fingen wir an, uns neue Projekte zu überlegen. Leider war nur Laurenz anwesend, sodass er sich über verschiedene mögliche Projektideen Gedanken machte und dazu recherchierte.
 
 ## Blogeintrag-14.02.2023
-Nachdem wir uns letztes Mal mit der Softwareentwicklung auseinandergesetzt hatten, und eine Simulation programmierten, welche die Evolutionstheorie von Charles Darwin repräsentierte, entschieden wir uns nun dazu dieses Halbjahr in das "Physicalcomputing" einzusteigen. Zufälligerweise entdeckten wir auf Social Media Teslaspulen, welche mithilfe einer Spannung Töne erzeugen konnten, wobei noch zusätzlich faszinierende Blitze entstanden. Dieses Konzept wollten wir unbedingt als Vorbild für unser Projekt nutzen, und ebenfalls eine Teslaspule zu entwickeln, welche gleichzeitig Blitze entstehen lässt und Töne erzeugt. Der Unterschied bei unserem Projekt sollte nun die Weiterentwicklung des Konzepts sein. Getauft haben wir unser Projekt mit dem Titel "Tesla Beats". Mithilfe eines programmierten Arduinos sollte nun die Spannung der Teslaspule gesteurt werde, um z.B. die Musik, welche die Teslaspule erzeugt, auszuschalten oder die Lautstärke zu minimieren. Falls diese Aspekte erfüllt sein sollten, wollten wir noch zusätzlich mithilfe einer Kamera Bewegungen erfassen können, um Mithilfe von festgelegten Bewegungen die letztendliche Spannung zu steuern. Da es bereits Teslaspulen gab, welche Töne erzeugen konnten, orientierten wir uns zunächst an Spulen folgender Art:
 
-![20230411_203427](https://user-images.githubusercontent.com/111282979/231257475-f5c9ac69-5901-435d-827c-68555571c453.jpg)
+Nachdem wir uns letztes Mal mit der Desktop-Anwendungsentwicklung auseinandergesetzt hatten, und eine Simulation programmierten, welche die Evolutionstheorie nach Charles Darwin repräsentierte, entschieden wir uns nun dazu, dieses Halbjahr in das "Physical Computing" einzusteigen. Zufälligerweise entdeckten wir auf Social Media Teslaspulen, welche durch einen AUX-Anschluss die eingehende Spannung insofern anpassten, dass die Audio den erzeugten Frequenzen entsprach und die Teslaspule wie ein Lautsprecher fungierte. Dieses Konzept wollten wir uns als Vorbild nehmen. Die Kabelgebundenheit war uns jedoch ein Dorn im Auge. Deshalb war unser Plan, das Ganze per Bluetooth zu betreiben. Getauft haben wir unser Projekt mit dem Titel "Tesla Beats". Mithilfe eines Arduinos sollte die eingehende Spannung der Teslaspule gesteuert werden. Falls diese Aspekte erfüllt sein sollten, wollten wir noch zusätzlich, mithilfe einer Kamera Bewegungen erfassen können, um mithilfe von festgelegten Bewegungen die Spannung zu steuern. Vom Design her orientierten wir uns an den kabelgebundenen Teslaspulen:
+
+[![20230411_203427](https://user-images.githubusercontent.com/111282979/231257475-f5c9ac69-5901-435d-827c-68555571c453.jpg)](https://www.youtube.com/shorts/9_NoVwdvP4I)
 
 
 ## Blogeintrag- 28.02.2023
 
-Seit der letzten Stunde hatten ich und Laurenz bereits versucht im Baumarkt alle nõtigen Bauteile zu beschaffen, die wir benötigten, um mit
+Seit der letzten Stunde hatten wir bereits versucht, im Baumarkt alle nõtigen Bauteile zu beschaffen, die wir benötigten, um mit
 dem Bau der Teslaspule zu beginnen. Unter anderem benötigten wir Kupferdraht, einen Eisenkern, einen Tranformator und weitere Bauteile.
 Leider fanden wir vergebens etwas, was wir benötigen würden. Aufgrund des Tatbestands widmeten wir uns dem Versuch ersteinmal
 abzuwarten, um die nötigen Bauteile aus der Physikräumen in unserer Schule zu holen. In diesen beiden Doppelstunden war Laurenz leider
@@ -43,10 +44,7 @@ Wir wollen der Frust, die sich daraus ergibt, ein Ende bereiten. Die Menschen im
 
 Nachdem wir die Grafiken erstellt hatten und diese zur Orientierung für unser Projekt nutzten, arbeiteten wir wie gewohnt an unserem Projekt hauptsächlich von zu Hause aus weiter. Für das Programmieren nutzten wir zunächst einmal node js, welches uns keine andere Möglichkeit bietet als JavaScript außerhalb des Webbrowsers zu nutzen. Darüber hinaus würden wir durch node js den Vorteil haben, dass unsere Nutzer zukünftlich unser fertiges Programm auf Betriebssystem wie MacOS und Linux öffnen könnten und nicht zwingend Windows zur Ausführung unseres Projekts bräuchten. Um unser framework für das frontend zu erstellen, welches ein wichtiger Bestandteil unseres Projekts war, nutzten wir react js, weil dieses sich besonders gut für die Erstellung von Benutzeroberflächen eignet. Eine ausführlichere Erklärung, warum gerade diese beiden JavaScript Bibliotheken uns überzeugt haben, folgt auf der Projektseite.   
 
-![Node JS-pic-12](https://user-images.githubusercontent.com/111282979/231259269-c62c838c-c022-4310-b007-b0a92fe424ca.png)
-
-
-
+[![Node JS-pic-12](https://user-images.githubusercontent.com/111282979/231259269-c62c838c-c022-4310-b007-b0a92fe424ca.png)](https://user-images.githubusercontent.com/111282979/231259269-c62c838c-c022-4310-b007-b0a92fe424ca.png)
 
 ## Blogeintrag- 7.04.2023
 
@@ -60,11 +58,6 @@ Mittlerweile waren wir mit der Programmierung unseres Projektes "VergissMeinNich
 ## Blogeintrag- 11.04.2023
 
 Nach sehr vielen verfassten Texten zu den einzelnen Bereichen des Projekts, haben wir es uns zum nächsten Schritt gemacht unsere Texte auf Interpunktion und Ausdruck zu untersuchen, um dadurch einzelne Dinge auszubessern. Obendrein wollten wir noch vor der Abgabe unbedingt zusätzliche Grafiken zu unserer Projektseite erstellen, damit die Erklärung so gut werden würde, dass nicht große Fragen offen blieben, weil dies für uns ein unbefriedigendes Ergebnis gewesen wäre. Des Weiteren haben wir auch wie schon bei unserem letzten Projekt "Survival of the fittest" wieder eine schöne Animation für unsere Projektseite angefertigt, um ein wenig der Langeweile, die durch das Lesen der langen Texte zukommen würde, entgegenzuwirken. Auch haben wir natürlich unser gesammtes Werk patentiert, damit andere es nicht klauen würden und unsere harte Arbeit zunichtemachen würden. Zum Schluss haben wir die Überschriften zu den einzelnen Themen unseres Projekts aufklappbar gemacht, damit die Nutzer selbst entscheiden können was sie sich davon gerade durchlesen möchten und nicht Alles bereits zu Beginn beim Öffnen der Seite aufgeklappt ist. 
-
-## Quellenverzeichnis
-- [Zu dem ersten Bild](https://www.youtube.com/shorts/9_NoVwdvP4I)
-
-- [Zu dem vierten Bild](https://user-images.githubusercontent.com/111282979/231259269-c62c838c-c022-4310-b007-b0a92fe424ca.png)
 
 
 
