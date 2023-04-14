@@ -2,7 +2,7 @@
 
 
 
-|[Blogeintrag-16.01.23](#blogeintrag-16012023)|[Blogeintrag-14.02.23](#blogeintrag-14022023)|[Blogeintrag-28.02.23](#blogeintrag-28022023)|[Blogeintrag-14.03.23](#blogeintrag-14032023)|[Blogeintrag-21.03.23](#blogeintrag-21032023)|[Blogeintrag-11.04.23](#blogeintrag-11042023)|
+|[Blogeintrag-16.01.23](#blogeintrag-16012023)|[Blogeintrag-14.02.23](#blogeintrag-14022023)|[Blogeintrag-28.02.23](#blogeintrag-28022023)|[Blogeintrag-14.03.23](#blogeintrag-14032023)|[Blogeintrag-21.03.23](#blogeintrag-21032023)|[Blogeintrag-14.04.23](#blogeintrag-14042023)|
 :-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
 
 ## Blogeintrag - 16.01.2023
@@ -54,9 +54,12 @@ Da das Projekt so umfangreich ist, haben wir uns überlegt bei manchen Aspekten 
 
 ![Bild Blogeintrag 4](https://user-images.githubusercontent.com/111282979/231255825-5ecd0cb1-b44e-4bc1-b583-2aa800c034a8.jpg)
 
-## Blogeintrag - 11.04.2023
+## Blogeintrag - 14.04.2023
 
-Nach sehr vielen verfassten Texten zu den einzelnen Bereichen des Projekts, haben wir unsere Texte drein wollten wir noch vor der Abgabe unbedingt zusätzliche Grafiken zu unserer Projektseite erstellen, damit die Erklärung so gut werden würde, dass nicht große Fragen offen blieben, weil dies für uns ein unbefriedigendes Ergebnis gewesen wäre. Des Weiteren haben wir auch wie schon bei unserem letzten Projekt "Survival of the fittest" wieder eine schöne Animation für unsere Projektseite angefertigt, um ein wenig der Langeweile, die durch das Lesen der langen Texte zukommen würde, entgegenzuwirken. Auch haben wir natürlich unser gesammtes Werk patentiert, damit andere es nicht klauen würden und unsere harte Arbeit zunichtemachen würden. 
+Nach sehr vielen verfassten Texten zu den einzelnen Bereichen des Projekts, haben wir unsere Texte noch überarbeitet und verbessert.
+Für eine noch bessere Verständlichkeit, sodass keine Fragen offen bleiben, haben wir noch Grafiken hinzugefügt. 
+Damit wir uns juristisch gegen Raubkopie des Codes absichern, haben wir eine Lizenz hinzugefügt, wodurch wir im Ernstfall im Recht wären.
+Wir sind stolz auf das, was wir geschafft haben und freuen uns auf das nächste Projekt.
 
 
 
