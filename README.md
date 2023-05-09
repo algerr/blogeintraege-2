@@ -19,7 +19,7 @@ Nachdem wir uns letztes Mal mit der Desktop-Anwendungsentwicklung auseinanderges
 ## Blogeintrag - 28.02.2023
 
 Seit der letzten Stunde hatten wir bereits begonnen, im Baumarkt alle nõtigen Bauteile zu beschaffen, die wir benötigten, um mit
-dem Bau der Teslaspule zu beginnen. Unter anderem benötigten wir Kupferdraht, einen Tranformator und weitere Bauteile.
+dem Bau der Teslaspule zu beginnen. Unter anderem benötigten wir Kupferdraht, einen Transformator und weitere Bauteile.
 Leider war bis heute nicht alles auffindbar, was wir brauchten. Somit hofften wir darauf, aus den Physikräumen der Schule die restlichen Materialien beschaffen zu können. Da Laurenz in dieser Doppelstunde leider nicht anwesend war, begann Daniel damit, die Primärspule zu konstruieren. Glücklicherweise verfügte unsere Schule über Kupferdrahtvorräte, die uns zur Verfügung gestellt wurden. Die Herausforderung bei der Herstellung der ersten Spule bestand darin, den Kupferdraht ohne eine Drehbank zu wickeln. 
 Zufälligerweise hatte die Schule wegen des Tages der offenen Tür eine Teslaspule von einer anderen Schule geliehen, sodass an dieser der Aufbau veranschaulicht werden konnte und das Verhalten dieser Spule bereits kennengelernt werden konnte.
 
@@ -31,17 +31,24 @@ Zufälligerweise hatte die Schule wegen des Tages der offenen Tür eine Teslaspu
 
 Nachdem wir uns eine ausgeliehene Teslaspule angeschaut hatten, sind wir nach einigen Überlegungen zum Entschluss gekommen, dass die Teslaspule insofern keinen Mehrwert hätte, da dieses Projekt nur etwas zum Betrachten wäre und keine sinnvolle Funktion für den Anwender hat. 
 Deshalb wollten wir uns nicht weiter dem Physical Computing widmen, sondern dieses Mal in die moderne Full-Stack Web-Entwicklung einsteigen.
+Da Laurenz bereits neben dem Informatikunterricht privat angefangen hatte, einen Passwort Manager mit React zu entwickeln, nahmen wir dies als Projekt.
 Unsere Idee war ein Passwort Manager namens VergissMeinNicht, der die Passwörter der Nutzer besser und transparenter schützen kann als andere Anbieter sowie automatisch starke Passwörter erstellt. Bei den ganzen heutigen Standards, die Passwörter auf allen möglichen Seiten erfüllen müssen, stoßen auch wir häufig auf das Problem, dass man sich einfach nicht mehr an sein Passwort erinnert.
 Wir wollen den Nutzern im Internet nun das Leben erleichtern und sie vor den Gefahren des Zugriffs durch Fremde so gut wie möglich schützen. 
 Ähnlich wie bei einer 2-Faktor-Authentifizierung schützt ein Nutzer seine Passwörter neben seinem Account-Passwort noch zusätzlich durch ein Masterpasswort.
-Bevor wir unsere Idee in die Praxis umsetzen wollen, wollten wir uns unbedingt einen guten Plan machen. Bei der Entwicklung einer kompletten Full-Stack Anwendung ist die Planung das A und O. Wir erstellten über ein kostenloses Designerprogram mit dem Namen Figma Grafiken, um unsere Ideen und die Funktionen, die wir uns für unser Projekt überlegten, zu visualisieren. Um uns auch später noch genauestens an das zu erinnern, was wir uns zu den Grafiken in dem Moment dachten, verfassten wir zu jeder Skizze einen Text, der nun auch auf der Projektseite zu sehen ist. Nachdem unser klarer Plan fertiggestellt war, begannen wir mit der Umsetzung des Projekts. 
+Bevor wir unsere Idee in die Praxis umsetzen wollen, wollten wir uns unbedingt einen guten Plan machen. Bei der Entwicklung einer kompletten Full-Stack Anwendung ist die Planung das A und O. Wir erstellten über ein kostenloses Designerprogram mit dem Namen Figma Grafiken, um unsere Ideen und die Funktionen, die wir uns für unser Projekt überlegten, zu visualisieren. Um uns auch später noch genauestens an das zu erinnern, was wir uns zu den Grafiken in dem Moment dachten, verfassten wir zu jeder Skizze einen Text, der nun auch auf der Projektseite zu sehen ist. Nachdem unser klarer Plan fertiggestellt war, begannen wir mit der Umsetzung des Projekts.
+Die Entwicklung des Frontends als React-Anwendung ist praktisch, da diese, durch ihre Komponenten-Struktur zu einem sehr klaren und gut zu überarbeitenden Code führt. 
+Schnell hatten wir das Projekt von Laurenz migriert und eine Grundstruktur geschaffen, auf der wir bis zur nächsten Woche die nächsten die Accounteinstellungen programmieren werden.
 
 ![Bild Blogeintrag 1](https://user-images.githubusercontent.com/111282979/231255651-992358e6-2d29-4e10-a0fa-18cfabd53903.jpg)
 
 
 ## Blogeintrag - 21.03.2023
 
-Von nun an widmeten wir uns in jeder freien Minute der Umsetzung unseres Projekts. Wir begannen mit der Konstruktion des Backends. Nach kurzer Recherche stießen wir auf die Google Cloud Functions. Dadurch lässt sich unsere Backend als RESTful-API mit Node.js und Express ohne eigenen Server hosten. Für die Umsetzung des Frontends hatten wir uns auch schon konkrete Pläne gemacht und haben vor, eine React-Anwendung zu entwickeln, da diese, durch ihre Komponenten-Struktur zu einem sehr klaren und gut zu überarbeitenden Code führt. 
+Nachdem wir nach vielem Trial und Error ein funktionierendes Frontend geschaffen haben, müssen wir nun die Funktionalität (das Backend) hinzufügen.
+Die Anfragen müssen von einem Server empfangen und verarbeitet werden. Zuerst machten wir uns auf die Suche nach einer Möglichkeit, diesen Server zu hosten.
+Nach kurzer Recherche stießen wir auf die Google Cloud Functions. Dadurch lässt sich unser Backend/Server als RESTful-API mit Node.js und Express ohne eigenen Server hosten. 
+
+***Erklärtext zu Node.js***
 
 [![Node JS-pic-12](https://user-images.githubusercontent.com/111282979/231259269-c62c838c-c022-4310-b007-b0a92fe424ca.png)](https://kinglearn.ir/wp-content/uploads/2021/03/Node.JS-pic-12.png)
 
