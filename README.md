@@ -70,12 +70,19 @@ Da das Projekt so umfangreich ist, haben wir uns überlegt bei manchen Aspekten 
 
 ![Bild Blogeintrag 4](https://user-images.githubusercontent.com/111282979/231255825-5ecd0cb1-b44e-4bc1-b583-2aa800c034a8.jpg)
 
+
 ## Blogeintrag - 14.04.2023
 
 Nach sehr vielen verfassten Texten zu den einzelnen Bereichen des Projekts, haben wir unsere Texte noch überarbeitet und verbessert.
 Für eine noch bessere Verständlichkeit, sodass keine Fragen offen bleiben, haben wir noch Grafiken hinzugefügt. 
 Damit wir uns juristisch gegen Raubkopie des Codes absichern, haben wir eine Lizenz hinzugefügt, wodurch wir im Ernstfall im Recht wären.
 Wir sind stolz auf das, was wir geschafft haben und freuen uns auf das nächste Projekt.
+
+## Blogeintrag - 17.05.2023
+
+Nachdem wir nun mit unserem Halbjahresprojekt fertig waren, widmeten wir uns nun einem neuen Projekt, welches wir persönlich im Vergleich zu den anderen Projekten am interessantesten fanden. Wir wollten nämlich eine Art Schadsoftware entwickeln, welche nach dem Prinzip einer RAT Schadsoftware funktionieren sollte. Remote Access Trojan (RAT) ist eine Art von Malware, die es Angreifern ermöglicht, sich unbefugten Zugriff auf ein infiziertes Computersystem zu verschaffen und es zu kontrollieren. Die RAT-Funktion basiert dabei auf dem Prinzip der Fernsteuerung und ermöglicht es einem Angreifer, verschiedene Aktionen auf dem angegriffenen System durchzuführen. RATs werden häufig mithilfe von Social-Engineering-Techniken wie E-Mail-Anhängen oder infizierten Downloads verbreitet. Nachdem der RAT auf dem System gestartet wurde, stellt er im Hintergrund eine Verbindung zum vom Angreifer kontrollierten Command-and-Control-Server (C&C) her. Über diese Verbindung kann der Angreifer verschiedene Aktionen ausführen, wie zum Beispiel die Fernsteuerung: Ein Angreifer kann einen infizierten Computer fernsteuern und Befehle ausführen, als ob er tatsächlich dort wäre. Dies kann das Durchsuchen von Dateien, das Starten oder Beenden von Prozessen, das Herunterladen von Dateien usw. umfassen. Datendiebstahl: RAT ermöglicht Angreifern den Zugriff auf vertrauliche Informationen wie Passwörter, Kreditkarteninformationen, persönliche Informationen und Unternehmensinformationen.
+Überwachung: Ein Angreifer kann den Bildschirm des infizierten Computers in Echtzeit anzeigen, Tastatureingaben aufzeichnen und Webcam und Mikrofon aktivieren, um Benutzeraktivitäten zu überwachen. Verbreitung zusätzlicher Malware: RATs können auch dazu verwendet werden, zusätzliche Malware wie Keylogger, Ransomware oder Botnets auf einem infizierten System zu installieren.
+RAT-Funktionen und -Funktionen können je nach spezifischer Implementierung variieren. Die Verwendung von RATs ist illegal und stellt eine ernsthafte Bedrohung für die Privatsphäre und Sicherheit eines Computersystems dar. Daher ist es wichtig, Sicherheitsmaßnahmen zum Schutz vor böswilligen Angriffen zu ergreifen. Solche Angriffe umfassen beispielsweise die regelmäßige Aktualisierung Ihrer Software und die Verwendung von Antivirenprogrammen , und seien Sie vorsichtig beim Umgang mit E-Mails und beim Herunterladen von unbekannten Quellen. Dabei wären wir in dem Fall der Angreifer, welcher diese aufgeführten Möglichekeiten hätte. Insgesamt ist es dennoch wichtig zu beachten, dass dieses Projekt keine bösen Absichten verfolgen würde, sondern lediglich zu Aufklärungszwecken dienen soll und unseren Mitschülern aufzeigen soll wozu eine RAT Software in der Lage ist und wie man sich am besten dafür schützen kann.
 
 
 
